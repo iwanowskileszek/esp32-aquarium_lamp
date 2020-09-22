@@ -13,6 +13,6 @@
 
 Uwagi:
 Często przy takiej obsłudze przez lokalny serwer + streona WWW trzeba restartować ESP32 (bywa upierdliwe)
-
+Ta wersja lua jet trochę poobcinana, np.: nie ma sinusa i innych funkcji matematycznych.
 
 
