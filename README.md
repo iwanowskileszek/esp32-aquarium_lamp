@@ -12,7 +12,7 @@
 10. Teraz można wgrywać programy lua. Jeżeli ma się uruchamiać przy starcie, a ma się tak uruchamiać, to wgrać jako init.
 
 Uwagi:
-Często przy takiej obsłudze przez lokalny server + streona WWW trzeba restartować ESP32 (bywa upierdliwe)
+Często przy takiej obsłudze przez lokalny serwer + streona WWW trzeba restartować ESP32 (bywa upierdliwe)
 
 
 
